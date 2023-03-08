@@ -1,2 +1,2 @@
-# pdf-Js-react
+# react-pdf-viewer
 Created with CodeSandbox

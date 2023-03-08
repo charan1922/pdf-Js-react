@@ -30,10 +30,7 @@ export default function App() {
       </div>
       <br />
       <PdfUrlViewer url={url} scale={scale} windowRef={windowRef} />
-      <p>
-        https://mozilla.github.io/pdf.js/examples/index.html#interactive-examples
-      </p>
-      <p>https://react-window.now.sh/#/examples/list/variable-size</p>
+  
     </div>
   );
 }

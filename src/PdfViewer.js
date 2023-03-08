@@ -101,7 +101,7 @@ PdfViewer.propTypes = {
 
 PdfViewer.defaultProps = {
   width: "100%",
-  height: "400px",
+  height: "100vh",
   scale: 1,
   gap: 40
 };

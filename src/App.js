@@ -6,7 +6,7 @@ export default function App() {
   const [scale, setScale] = useState(1);
   const [page, setPage] = useState(1);
   const windowRef = useRef();
-  const url = "oodmetrics.pdf";
+  const url = "document.pdf";
 
   const scrollToItem = () => {
     windowRef.current && windowRef.current.scrollToItem(page - 1, "start");
